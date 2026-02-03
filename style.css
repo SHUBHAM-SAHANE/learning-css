@@ -33,8 +33,8 @@ body{
 
 }
 
-#main h1{
-    font-size: 340px;
+#main>h1{
+    font-size: 300px;
     font-weight:400 ;
     padding-left: 100px;
 }
@@ -42,7 +42,7 @@ body{
 #bottom-left{
     position: absolute;
     left: 8%;
-    bottom: 3%;
+    bottom: 9%;
     width: 300px;
 }
 
@@ -61,5 +61,12 @@ body{
     margin-top: 20px;
 
 
+
+}
+
+#bottombar {
+    position: absolute;
+    bottom: 0;
+    left: 0;
 
 }
