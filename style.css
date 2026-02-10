@@ -34,7 +34,7 @@ body{
 }
 
 #main>h1{
-    font-size: 300px;
+    font-size: 285px;
     font-weight:400 ;
     padding-left: 100px;
 }
@@ -66,12 +66,7 @@ body{
 
 #bottombar {
     position: absolute;
+    padding: 30px 70px;
     bottom: 0;
     left: 0;
 
-}
-
-#right {
-    position: absolute;
-    margin-right: 0%;
-}
